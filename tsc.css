@@ -1,0 +1,15 @@
+h1{
+    font-style: italic;
+    font-size: larger;
+    align-content: center;
+    
+    height:auto;
+    width:auto;
+    padding: 5px;
+    color: aliceblue;
+}
+body{
+    background-color: limegreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
